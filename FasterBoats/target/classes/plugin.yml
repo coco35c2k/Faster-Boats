@@ -1,0 +1,5 @@
+name: FasterBoats
+version: '1.0.0'
+main: solarsmp.fasterboats.FasterBoats
+api-version: '1.19'
+author: coco
